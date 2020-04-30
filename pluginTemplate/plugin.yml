@@ -1,0 +1,7 @@
+name: pluginTemplate
+main: me.technonerd12.pluginTemplate.Main
+version: 1.0
+author: Technonerd12
+commands:
+   template:
+      description: This command is simply a placeholder
